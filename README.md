@@ -9,7 +9,7 @@ A robust and efficient Flutter package that provides a singleton HTTP client wra
 - **Singleton Pattern**: Access the same HTTP client instance throughout your entire application
 - **Multiple HTTP Methods**: Support for GET, POST, PUT, and DELETE operations
 - **Built on Dio Package**: Leverages the robust and popular `dio` package for HTTP operations
-- **Automatic Logging**: Integrated with CoreLogger for comprehensive request/response logging
+- **Automatic Logging**: Integrated with [CoreLogger](https://github.com/starfoxcom/Core-Logger) for comprehensive request/response logging
 - **Easy Configuration**: Simple initialization with base URL, timeouts, and default headers
 - **Error Handling**: Built-in error handling with detailed logging and proper exception propagation
 - **Type Safety**: Full Dart type safety with generic response types and optional parameters

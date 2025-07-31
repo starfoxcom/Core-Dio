@@ -1,6 +1,6 @@
 name: core_dio
 description: "A robust Flutter package that provides a singleton HTTP client wrapper around Dio with automatic logging, comprehensive error handling, and easy configuration management."
-version: 1.0.0
+version: 1.0.1
 publish_to: 'none'
 
 environment:
